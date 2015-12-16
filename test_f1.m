@@ -10,4 +10,4 @@ f = @(t) normcdf((t-mean(data))/std(data),0,1);
 D = kolmogoroff_smirnoff( data, f ) % 0.6315 < 1.16
 w2 = omega_squared( data, f ) % 0.0862 < 0.34
 
-hist(data)
+%hist(data)

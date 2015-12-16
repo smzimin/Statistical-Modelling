@@ -4,7 +4,7 @@ n = 1000;
 t = linspace(0,T,n);
 dt = T/n;
 
-N = 1;
+N = 3;
 film = true;
 w = zeros(n,N);
 

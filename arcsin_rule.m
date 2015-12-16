@@ -4,7 +4,7 @@ n = 1000;
 t = linspace(0,T,n);
 dt = T/n;
 
-num_trials = 10^3;
+num_trials = 10^2;
 zero = zeros(num_trials,1);
 
 for k = 1:num_trials

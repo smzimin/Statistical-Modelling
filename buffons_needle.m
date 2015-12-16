@@ -1,4 +1,4 @@
-l = 7;
+l = 1;
 n_trials = 10;
 n_throws = 10^5;
 

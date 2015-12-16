@@ -17,5 +17,5 @@ for i = 1:n-1
 end
 y(n) = z_n(x(n));
 
-% scatter(x,y)
+scatter(x,y)
 % comet(x,y)
